@@ -8,6 +8,9 @@ Cowler Todo List is a project initiated as a coding challenge during my time as 
 
 Before you begin, ensure you have met the following requirements:
 - Node.js (Ensure you are using npm version 16, as the codebase is tailored for this version due to its age.)
+## Frontend
+
+![Screenshot 2024-03-05 213017](https://github.com/Kashif-Kamran/cowler-task/assets/80104444/34d03903-c30c-408d-a563-c615d18d5d36)
 
 ## Installation
 
